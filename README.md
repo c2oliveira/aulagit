@@ -52,6 +52,8 @@ O cronograma de desenvolvimento do projeto foi planejado em etapas claras, com p
 ```bash
 python geradsenhas.py
 
+### License:
+
 MIT License
 
 Copyright (c) 2024 [Seu Nome ou Nome da Empresa]
